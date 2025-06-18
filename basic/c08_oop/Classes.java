@@ -15,6 +15,7 @@ public class Classes {
 //        person.age = 38;
 
         person.sayHello();
+        System.out.println("name is "+ person.name);
 
         person.name = "Brais Moure";
         System.out.println(person.name);
